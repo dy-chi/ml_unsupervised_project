@@ -55,7 +55,7 @@ The project is an assignment from Lighthouse Labs Data Science Course, designed 
 
 Using K-means clustering I was able to create clusters that matched the categorical column "Channels" _fairly_ well. With more time and further tweaking it may be possible to get a closer match.
 
-Further insights on the datasets were gleaned ffrom PCA and visualizations as discussed within jupyter notebook
+Further insights on the datasets were gleaned from PCA and visualizations and these are discussed within jupyter notebook
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
