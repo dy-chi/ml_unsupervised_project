@@ -53,7 +53,7 @@
 
 The project is an assignment from Lighthouse Labs Data Science Course, designed to demonstrate an understanding of unsupervised machine learning. The dataset is sourced from https://www.kaggle.com/datasets/binovi/wholesale-customers-data-set. The project comprises a single notebook encompassing exploratory data analysis (EDA), data cleaning, preprocessing, K-means clustering, hierarchical clustering, principal component analysis (PCA), and concludes with insights derived from the wholesale customers data. 
 
-Using K-means clustering I was able to create clusters that matched the categorical column "Channels" fairly well and with more time and tweaking it may be possible to get a closer match.
+Using K-means clustering I was able to create clusters that matched the categorical column "Channels" _fairly_ well. With more time and further tweaking it may be possible to get a closer match.
 
 Further insights on the datasets were gleaned ffrom PCA and visualizations as discussed within jupyter notebook
 
