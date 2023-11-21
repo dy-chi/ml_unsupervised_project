@@ -32,7 +32,7 @@
 <h3 align="center">Wholesale Customers Data Unsupervised Learning Project</h3>
 
   <p align="center">
-    project_description
+    Lighthouse Labs Unsupervised Learning Project Assignment
     <br />
     <a href="https://github.com/dy-chi/ml_unsupervised_project"><strong>Explore the docs »</strong></a>
     <br />
