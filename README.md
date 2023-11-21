@@ -27,12 +27,7 @@
 
 
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/dy-chi/ml_unsupervised_project">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+
 
 <h3 align="center">Wholesale Data Unsupervized Learning Project</h3>
 
