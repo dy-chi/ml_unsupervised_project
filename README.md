@@ -58,11 +58,6 @@ The project is an assignment from Lighthouse Labs Data Science Course. It is des
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
 
 
 <!-- CONTACT -->
