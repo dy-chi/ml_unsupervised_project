@@ -37,11 +37,7 @@
     <a href="https://github.com/dy-chi/ml_unsupervised_project"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/dy-chi/ml_unsupervised_project">View Demo</a>
-    ·
-    <a href="https://github.com/dy-chi/ml_unsupervised_project/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/dy-chi/ml_unsupervised_project/issues">Request Feature</a>
+
   </p>
 </div>
 
