@@ -51,7 +51,7 @@
 
 
 
-The project is an assignment from Lighthouse Labs Data Science Course. It is designed to show understanding of unsupervized machine learning. Data is from https://www.kaggle.com/datasets/binovi/wholesale-customers-data-set. the project consists of one notebook covering EDA, data cleaning, preproccessing, Kmeans clusterings, hierarchical Clusering, principle component analysis and concludes with insights into the wholesale customers data  
+The project is an assignment from Lighthouse Labs Data Science Course, designed to demonstrate an understanding of unsupervised machine learning. The dataset is sourced from https://www.kaggle.com/datasets/binovi/wholesale-customers-data-set. The project comprises a single notebook encompassing exploratory data analysis (EDA), data cleaning, preprocessing, K-means clustering, hierarchical clustering, principal component analysis (PCA), and concludes with insights derived from the wholesale customers data. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
